@@ -10,8 +10,8 @@ If a file contains unparsable string (e.g: asfqq1as for integer), the string wil
 
 ## REQUIREMENTS
 
-Java version 15 or greater
-Maven version 3.8.2 or greater
+1. Java version 15 or greater
+2. Maven version 3.8.2 or greater
 
 ## BUILD
 
